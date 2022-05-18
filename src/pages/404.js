@@ -23,7 +23,7 @@ const codeStyles = {
   fontSize: "1.25rem",
   borderRadius: 4,
 }
-
+ 
 // markup
 const NotFoundPage = () => {
   return (
